@@ -12,5 +12,9 @@ Video: HDMI 640x480 @ 60Hz
 Sound: Beeper (Delta-sigma stereo)
 
 Se usa el siguiente vídeo como referencia:
+
+#--
+
 [![Alt text](https://img.youtube.com/vi/93j7V9RXP74/0.jpg)](https://www.youtube.com/watch?v=93j7V9RXP74)
 
+#--
