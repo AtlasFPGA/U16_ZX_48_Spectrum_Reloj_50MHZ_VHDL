@@ -2,7 +2,7 @@
 Implementación de un ZX Spectrum de 48Kbytes se usa el segundo zócalo PIN_E15 con un reloj de 50Mhz.
 
 Se trata de una implementación del respositorio del Reverse U16.
-Un ZX Spectrum con una implementación del Z80 diferente al T80 que se usan en la mayoría de las implementaciones.
+Un ZX Spectrum con una descripción del Z80 diferente al T80 que se usan en la mayoría de las implementaciones.
 
 Características:
 CPU: NextZ80 @ 50MHz
